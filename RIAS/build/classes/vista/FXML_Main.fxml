@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="presentador.FXML_LoginController">
+   <children>
+      <TextArea id="txtArea" fx:id="txtArea" layoutX="112.0" layoutY="100.0" prefHeight="151.0" prefWidth="388.0" />
+      <Button layoutX="277.0" layoutY="262.0" mnemonicParsing="false" onAction="#handleSubmitButtonAction2" text="Twittear" />
+      <Label layoutX="264.0" layoutY="75.0" text="Escribe tu tweet" />
+   </children>
+</AnchorPane>
