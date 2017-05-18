@@ -8,8 +8,7 @@
   </information>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="RIAS.jar" size="9524" download="eager" />
-    <jar href="lib\javaee-web-api-7.0.jar" size="1326430" download="eager" />
+    <jar href="RIAS.jar" size="6541" download="eager" />
     <jar href="lib\twitter4j.jar" size="290456" download="eager" />
   </resources>
   <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="RIAS" >
